@@ -1,0 +1,525 @@
+{
+  "categorias": [
+    {
+      "id": "catu8jzPde0Ig",
+      "nome": "Política"
+    },
+    {
+      "id": "catxLd6GncfBA",
+      "nome": "Economia"
+    },
+    {
+      "id": "catepfJBd0Kh8",
+      "nome": "Esportes"
+    },
+    {
+      "id": "catoOOL8dKLzd",
+      "nome": "Tecnologia"
+    },
+    {
+      "id": "catocJ2isAjIh",
+      "nome": "Saúde"
+    },
+    {
+      "id": "catKtJ0RlgLKO",
+      "nome": "Cultura"
+    },
+    {
+      "id": "catmxgJTeKdNn",
+      "nome": "Mundo"
+    }
+  ],
+  "noticias": [
+    {
+      "id": "notXuDL7DxtpY",
+      "titulo": "Congresso aprova nova lei de transparencia publica",
+      "resumo": "Confira os principais detalhes desse acontecimento que tem repercutido nos ultimos dias.",
+      "textoCompleto": "Este e o texto completo da noticia, trazendo mais detalhes sobre o assunto abordado. As informacoes foram apuradas junto a fontes oficiais e especialistas da area, garantindo um panorama completo sobre o tema para o leitor. A equipe de reportagem continua acompanhando os desdobramentos e novas atualizacoes serao publicadas assim que houver novidades relevantes sobre o caso, mantendo o compromisso com a informacao precisa e atualizada.",
+      "categoriaId": "catu8jzPde0Ig",
+      "destaque": false,
+      "dataPublicacao": "2026-04-22T12:00:00.000Z",
+      "imagem": "https://picsum.photos/seed/imglSXpfKtHF4/800/450"
+    },
+    {
+      "id": "notMehGAkWvj7",
+      "titulo": "Governo anuncia pacote de medidas para infraestrutura",
+      "resumo": "Confira os principais detalhes desse acontecimento que tem repercutido nos ultimos dias.",
+      "textoCompleto": "Este e o texto completo da noticia, trazendo mais detalhes sobre o assunto abordado. As informacoes foram apuradas junto a fontes oficiais e especialistas da area, garantindo um panorama completo sobre o tema para o leitor. A equipe de reportagem continua acompanhando os desdobramentos e novas atualizacoes serao publicadas assim que houver novidades relevantes sobre o caso, mantendo o compromisso com a informacao precisa e atualizada.",
+      "categoriaId": "catu8jzPde0Ig",
+      "destaque": false,
+      "dataPublicacao": "2026-03-24T12:00:00.000Z",
+      "imagem": "https://picsum.photos/seed/imgFAc9QeWJKY/800/450"
+    },
+    {
+      "id": "notwMFLZDe1f8",
+      "titulo": "Eleicoes municipais tem data confirmada para o proximo ano",
+      "resumo": "Confira os principais detalhes desse acontecimento que tem repercutido nos ultimos dias.",
+      "textoCompleto": "Este e o texto completo da noticia, trazendo mais detalhes sobre o assunto abordado. As informacoes foram apuradas junto a fontes oficiais e especialistas da area, garantindo um panorama completo sobre o tema para o leitor. A equipe de reportagem continua acompanhando os desdobramentos e novas atualizacoes serao publicadas assim que houver novidades relevantes sobre o caso, mantendo o compromisso com a informacao precisa e atualizada.",
+      "categoriaId": "catu8jzPde0Ig",
+      "destaque": false,
+      "dataPublicacao": "2026-07-11T12:00:00.000Z",
+      "imagem": "https://picsum.photos/seed/imgrESQedUStP/800/450"
+    },
+    {
+      "id": "notsTy4Qwb8Dw",
+      "titulo": "Senado debate reforma administrativa em sessao extraordinaria",
+      "resumo": "Confira os principais detalhes desse acontecimento que tem repercutido nos ultimos dias.",
+      "textoCompleto": "Este e o texto completo da noticia, trazendo mais detalhes sobre o assunto abordado. As informacoes foram apuradas junto a fontes oficiais e especialistas da area, garantindo um panorama completo sobre o tema para o leitor. A equipe de reportagem continua acompanhando os desdobramentos e novas atualizacoes serao publicadas assim que houver novidades relevantes sobre o caso, mantendo o compromisso com a informacao precisa e atualizada.",
+      "categoriaId": "catu8jzPde0Ig",
+      "destaque": false,
+      "dataPublicacao": "2026-05-22T12:00:00.000Z",
+      "imagem": "https://picsum.photos/seed/imgkNhFdnXsiV/800/450"
+    },
+    {
+      "id": "not3FfkCzJr4i",
+      "titulo": "Prefeituras recebem novo repasse federal para saude",
+      "resumo": "Confira os principais detalhes desse acontecimento que tem repercutido nos ultimos dias.",
+      "textoCompleto": "Este e o texto completo da noticia, trazendo mais detalhes sobre o assunto abordado. As informacoes foram apuradas junto a fontes oficiais e especialistas da area, garantindo um panorama completo sobre o tema para o leitor. A equipe de reportagem continua acompanhando os desdobramentos e novas atualizacoes serao publicadas assim que houver novidades relevantes sobre o caso, mantendo o compromisso com a informacao precisa e atualizada.",
+      "categoriaId": "catu8jzPde0Ig",
+      "destaque": false,
+      "dataPublicacao": "2026-02-13T12:00:00.000Z",
+      "imagem": "https://picsum.photos/seed/img0B3JrTAwR4/800/450"
+    },
+    {
+      "id": "notljoQoaF1Ll",
+      "titulo": "Ministerio anuncia mudancas na politica de educacao",
+      "resumo": "Confira os principais detalhes desse acontecimento que tem repercutido nos ultimos dias.",
+      "textoCompleto": "Este e o texto completo da noticia, trazendo mais detalhes sobre o assunto abordado. As informacoes foram apuradas junto a fontes oficiais e especialistas da area, garantindo um panorama completo sobre o tema para o leitor. A equipe de reportagem continua acompanhando os desdobramentos e novas atualizacoes serao publicadas assim que houver novidades relevantes sobre o caso, mantendo o compromisso com a informacao precisa e atualizada.",
+      "categoriaId": "catu8jzPde0Ig",
+      "destaque": true,
+      "dataPublicacao": "2026-04-08T12:00:00.000Z",
+      "imagem": "https://picsum.photos/seed/imgqsajAIxNKu/800/450"
+    },
+    {
+      "id": "not8NPRVdD53X",
+      "titulo": "Comissao investiga irregularidades em licitacao publica",
+      "resumo": "Confira os principais detalhes desse acontecimento que tem repercutido nos ultimos dias.",
+      "textoCompleto": "Este e o texto completo da noticia, trazendo mais detalhes sobre o assunto abordado. As informacoes foram apuradas junto a fontes oficiais e especialistas da area, garantindo um panorama completo sobre o tema para o leitor. A equipe de reportagem continua acompanhando os desdobramentos e novas atualizacoes serao publicadas assim que houver novidades relevantes sobre o caso, mantendo o compromisso com a informacao precisa e atualizada.",
+      "categoriaId": "catu8jzPde0Ig",
+      "destaque": false,
+      "dataPublicacao": "2026-02-23T12:00:00.000Z",
+      "imagem": "https://picsum.photos/seed/img83RZJzzzzg/800/450"
+    },
+    {
+      "id": "notmenCkhvMdg",
+      "titulo": "Inflacao desacelera pelo terceiro mes consecutivo",
+      "resumo": "Confira os principais detalhes desse acontecimento que tem repercutido nos ultimos dias.",
+      "textoCompleto": "Este e o texto completo da noticia, trazendo mais detalhes sobre o assunto abordado. As informacoes foram apuradas junto a fontes oficiais e especialistas da area, garantindo um panorama completo sobre o tema para o leitor. A equipe de reportagem continua acompanhando os desdobramentos e novas atualizacoes serao publicadas assim que houver novidades relevantes sobre o caso, mantendo o compromisso com a informacao precisa e atualizada.",
+      "categoriaId": "catxLd6GncfBA",
+      "destaque": false,
+      "dataPublicacao": "2026-04-21T12:00:00.000Z",
+      "imagem": "https://picsum.photos/seed/imgaKjIg8xNbe/800/450"
+    },
+    {
+      "id": "notjOq9wMxEhh",
+      "titulo": "Banco central mantem taxa de juros em nova reuniao",
+      "resumo": "Confira os principais detalhes desse acontecimento que tem repercutido nos ultimos dias.",
+      "textoCompleto": "Este e o texto completo da noticia, trazendo mais detalhes sobre o assunto abordado. As informacoes foram apuradas junto a fontes oficiais e especialistas da area, garantindo um panorama completo sobre o tema para o leitor. A equipe de reportagem continua acompanhando os desdobramentos e novas atualizacoes serao publicadas assim que houver novidades relevantes sobre o caso, mantendo o compromisso com a informacao precisa e atualizada.",
+      "categoriaId": "catxLd6GncfBA",
+      "destaque": false,
+      "dataPublicacao": "2026-07-07T12:00:00.000Z",
+      "imagem": "https://picsum.photos/seed/img2FDEEtfjgV/800/450"
+    },
+    {
+      "id": "not1SkHbn88Hx",
+      "titulo": "Dolar fecha em queda apos dados do mercado de trabalho",
+      "resumo": "Confira os principais detalhes desse acontecimento que tem repercutido nos ultimos dias.",
+      "textoCompleto": "Este e o texto completo da noticia, trazendo mais detalhes sobre o assunto abordado. As informacoes foram apuradas junto a fontes oficiais e especialistas da area, garantindo um panorama completo sobre o tema para o leitor. A equipe de reportagem continua acompanhando os desdobramentos e novas atualizacoes serao publicadas assim que houver novidades relevantes sobre o caso, mantendo o compromisso com a informacao precisa e atualizada.",
+      "categoriaId": "catxLd6GncfBA",
+      "destaque": false,
+      "dataPublicacao": "2026-03-24T12:00:00.000Z",
+      "imagem": "https://picsum.photos/seed/imgjSI6bWHtP3/800/450"
+    },
+    {
+      "id": "notHx6kwXoIIX",
+      "titulo": "Setor industrial registra crescimento acima do esperado",
+      "resumo": "Confira os principais detalhes desse acontecimento que tem repercutido nos ultimos dias.",
+      "textoCompleto": "Este e o texto completo da noticia, trazendo mais detalhes sobre o assunto abordado. As informacoes foram apuradas junto a fontes oficiais e especialistas da area, garantindo um panorama completo sobre o tema para o leitor. A equipe de reportagem continua acompanhando os desdobramentos e novas atualizacoes serao publicadas assim que houver novidades relevantes sobre o caso, mantendo o compromisso com a informacao precisa e atualizada.",
+      "categoriaId": "catxLd6GncfBA",
+      "destaque": false,
+      "dataPublicacao": "2026-01-23T12:00:00.000Z",
+      "imagem": "https://picsum.photos/seed/imgGvOoNZYW2m/800/450"
+    },
+    {
+      "id": "notVZomHFwUbb",
+      "titulo": "Governo anuncia novas linhas de credito para pequenas empresas",
+      "resumo": "Confira os principais detalhes desse acontecimento que tem repercutido nos ultimos dias.",
+      "textoCompleto": "Este e o texto completo da noticia, trazendo mais detalhes sobre o assunto abordado. As informacoes foram apuradas junto a fontes oficiais e especialistas da area, garantindo um panorama completo sobre o tema para o leitor. A equipe de reportagem continua acompanhando os desdobramentos e novas atualizacoes serao publicadas assim que houver novidades relevantes sobre o caso, mantendo o compromisso com a informacao precisa e atualizada.",
+      "categoriaId": "catxLd6GncfBA",
+      "destaque": false,
+      "dataPublicacao": "2026-07-08T12:00:00.000Z",
+      "imagem": "https://picsum.photos/seed/imgYrEqmSM9wC/800/450"
+    },
+    {
+      "id": "not9xfogoEmvn",
+      "titulo": "Bolsa de valores atinge nova maxima historica",
+      "resumo": "Confira os principais detalhes desse acontecimento que tem repercutido nos ultimos dias.",
+      "textoCompleto": "Este e o texto completo da noticia, trazendo mais detalhes sobre o assunto abordado. As informacoes foram apuradas junto a fontes oficiais e especialistas da area, garantindo um panorama completo sobre o tema para o leitor. A equipe de reportagem continua acompanhando os desdobramentos e novas atualizacoes serao publicadas assim que houver novidades relevantes sobre o caso, mantendo o compromisso com a informacao precisa e atualizada.",
+      "categoriaId": "catxLd6GncfBA",
+      "destaque": false,
+      "dataPublicacao": "2026-07-24T12:00:00.000Z",
+      "imagem": "https://picsum.photos/seed/imgEN5N1aE6Pw/800/450"
+    },
+    {
+      "id": "notQh6yYTWmE4",
+      "titulo": "Desemprego cai para o menor patamar em cinco anos",
+      "resumo": "Confira os principais detalhes desse acontecimento que tem repercutido nos ultimos dias.",
+      "textoCompleto": "Este e o texto completo da noticia, trazendo mais detalhes sobre o assunto abordado. As informacoes foram apuradas junto a fontes oficiais e especialistas da area, garantindo um panorama completo sobre o tema para o leitor. A equipe de reportagem continua acompanhando os desdobramentos e novas atualizacoes serao publicadas assim que houver novidades relevantes sobre o caso, mantendo o compromisso com a informacao precisa e atualizada.",
+      "categoriaId": "catxLd6GncfBA",
+      "destaque": true,
+      "dataPublicacao": "2026-07-21T12:00:00.000Z",
+      "imagem": "https://picsum.photos/seed/imglBYOvfZ8Uz/800/450"
+    },
+    {
+      "id": "notfUkkibjL5D",
+      "titulo": "Time local vence classico regional em partida emocionante",
+      "resumo": "Confira os principais detalhes desse acontecimento que tem repercutido nos ultimos dias.",
+      "textoCompleto": "Este e o texto completo da noticia, trazendo mais detalhes sobre o assunto abordado. As informacoes foram apuradas junto a fontes oficiais e especialistas da area, garantindo um panorama completo sobre o tema para o leitor. A equipe de reportagem continua acompanhando os desdobramentos e novas atualizacoes serao publicadas assim que houver novidades relevantes sobre o caso, mantendo o compromisso com a informacao precisa e atualizada.",
+      "categoriaId": "catepfJBd0Kh8",
+      "destaque": false,
+      "dataPublicacao": "2026-04-13T12:00:00.000Z",
+      "imagem": "https://picsum.photos/seed/imgZPjN0MEQ7w/800/450"
+    },
+    {
+      "id": "notbaZUPgHV7i",
+      "titulo": "Selecao se prepara para amistoso internacional",
+      "resumo": "Confira os principais detalhes desse acontecimento que tem repercutido nos ultimos dias.",
+      "textoCompleto": "Este e o texto completo da noticia, trazendo mais detalhes sobre o assunto abordado. As informacoes foram apuradas junto a fontes oficiais e especialistas da area, garantindo um panorama completo sobre o tema para o leitor. A equipe de reportagem continua acompanhando os desdobramentos e novas atualizacoes serao publicadas assim que houver novidades relevantes sobre o caso, mantendo o compromisso com a informacao precisa e atualizada.",
+      "categoriaId": "catepfJBd0Kh8",
+      "destaque": false,
+      "dataPublicacao": "2026-02-18T12:00:00.000Z",
+      "imagem": "https://picsum.photos/seed/imgB3m03nbqns/800/450"
+    },
+    {
+      "id": "notuqIA1id6Vw",
+      "titulo": "Atleta bate recorde nacional em competicao de atletismo",
+      "resumo": "Confira os principais detalhes desse acontecimento que tem repercutido nos ultimos dias.",
+      "textoCompleto": "Este e o texto completo da noticia, trazendo mais detalhes sobre o assunto abordado. As informacoes foram apuradas junto a fontes oficiais e especialistas da area, garantindo um panorama completo sobre o tema para o leitor. A equipe de reportagem continua acompanhando os desdobramentos e novas atualizacoes serao publicadas assim que houver novidades relevantes sobre o caso, mantendo o compromisso com a informacao precisa e atualizada.",
+      "categoriaId": "catepfJBd0Kh8",
+      "destaque": false,
+      "dataPublicacao": "2026-05-08T12:00:00.000Z",
+      "imagem": "https://picsum.photos/seed/img5DQL05HA06/800/450"
+    },
+    {
+      "id": "notHGb3CXlMaX",
+      "titulo": "Campeonato estadual define finalistas neste fim de semana",
+      "resumo": "Confira os principais detalhes desse acontecimento que tem repercutido nos ultimos dias.",
+      "textoCompleto": "Este e o texto completo da noticia, trazendo mais detalhes sobre o assunto abordado. As informacoes foram apuradas junto a fontes oficiais e especialistas da area, garantindo um panorama completo sobre o tema para o leitor. A equipe de reportagem continua acompanhando os desdobramentos e novas atualizacoes serao publicadas assim que houver novidades relevantes sobre o caso, mantendo o compromisso com a informacao precisa e atualizada.",
+      "categoriaId": "catepfJBd0Kh8",
+      "destaque": false,
+      "dataPublicacao": "2026-05-05T12:00:00.000Z",
+      "imagem": "https://picsum.photos/seed/imgZjljENUhJd/800/450"
+    },
+    {
+      "id": "notJEYXg4Jdpm",
+      "titulo": "Clube anuncia contratacao de novo tecnico",
+      "resumo": "Confira os principais detalhes desse acontecimento que tem repercutido nos ultimos dias.",
+      "textoCompleto": "Este e o texto completo da noticia, trazendo mais detalhes sobre o assunto abordado. As informacoes foram apuradas junto a fontes oficiais e especialistas da area, garantindo um panorama completo sobre o tema para o leitor. A equipe de reportagem continua acompanhando os desdobramentos e novas atualizacoes serao publicadas assim que houver novidades relevantes sobre o caso, mantendo o compromisso com a informacao precisa e atualizada.",
+      "categoriaId": "catepfJBd0Kh8",
+      "destaque": false,
+      "dataPublicacao": "2026-03-22T12:00:00.000Z",
+      "imagem": "https://picsum.photos/seed/imgrcXgGCJbW5/800/450"
+    },
+    {
+      "id": "notGMGmSrCGIZ",
+      "titulo": "Torneio de tenis reune melhores jogadores do pais",
+      "resumo": "Confira os principais detalhes desse acontecimento que tem repercutido nos ultimos dias.",
+      "textoCompleto": "Este e o texto completo da noticia, trazendo mais detalhes sobre o assunto abordado. As informacoes foram apuradas junto a fontes oficiais e especialistas da area, garantindo um panorama completo sobre o tema para o leitor. A equipe de reportagem continua acompanhando os desdobramentos e novas atualizacoes serao publicadas assim que houver novidades relevantes sobre o caso, mantendo o compromisso com a informacao precisa e atualizada.",
+      "categoriaId": "catepfJBd0Kh8",
+      "destaque": false,
+      "dataPublicacao": "2026-01-15T12:00:00.000Z",
+      "imagem": "https://picsum.photos/seed/imgEG8pSH4487/800/450"
+    },
+    {
+      "id": "notm1CiAhzCue",
+      "titulo": "Equipe de natacao conquista medalhas em competicao internacional",
+      "resumo": "Confira os principais detalhes desse acontecimento que tem repercutido nos ultimos dias.",
+      "textoCompleto": "Este e o texto completo da noticia, trazendo mais detalhes sobre o assunto abordado. As informacoes foram apuradas junto a fontes oficiais e especialistas da area, garantindo um panorama completo sobre o tema para o leitor. A equipe de reportagem continua acompanhando os desdobramentos e novas atualizacoes serao publicadas assim que houver novidades relevantes sobre o caso, mantendo o compromisso com a informacao precisa e atualizada.",
+      "categoriaId": "catepfJBd0Kh8",
+      "destaque": false,
+      "dataPublicacao": "2026-03-18T12:00:00.000Z",
+      "imagem": "https://picsum.photos/seed/imgQpBenQtYh5/800/450"
+    },
+    {
+      "id": "notPQxjq4i9Do",
+      "titulo": "Nova atualizacao de smartphone traz melhorias de bateria",
+      "resumo": "Confira os principais detalhes desse acontecimento que tem repercutido nos ultimos dias.",
+      "textoCompleto": "Este e o texto completo da noticia, trazendo mais detalhes sobre o assunto abordado. As informacoes foram apuradas junto a fontes oficiais e especialistas da area, garantindo um panorama completo sobre o tema para o leitor. A equipe de reportagem continua acompanhando os desdobramentos e novas atualizacoes serao publicadas assim que houver novidades relevantes sobre o caso, mantendo o compromisso com a informacao precisa e atualizada.",
+      "categoriaId": "catoOOL8dKLzd",
+      "destaque": false,
+      "dataPublicacao": "2026-07-05T12:00:00.000Z",
+      "imagem": "https://picsum.photos/seed/imgV8gz4FkQ1o/800/450"
+    },
+    {
+      "id": "notGzvAmwufUx",
+      "titulo": "Empresa lanca ferramenta de inteligencia artificial para escritorios",
+      "resumo": "Confira os principais detalhes desse acontecimento que tem repercutido nos ultimos dias.",
+      "textoCompleto": "Este e o texto completo da noticia, trazendo mais detalhes sobre o assunto abordado. As informacoes foram apuradas junto a fontes oficiais e especialistas da area, garantindo um panorama completo sobre o tema para o leitor. A equipe de reportagem continua acompanhando os desdobramentos e novas atualizacoes serao publicadas assim que houver novidades relevantes sobre o caso, mantendo o compromisso com a informacao precisa e atualizada.",
+      "categoriaId": "catoOOL8dKLzd",
+      "destaque": false,
+      "dataPublicacao": "2026-02-23T12:00:00.000Z",
+      "imagem": "https://picsum.photos/seed/imgbvJDCTbyvH/800/450"
+    },
+    {
+      "id": "noteh6Yo4gfqr",
+      "titulo": "Startup brasileira recebe investimento internacional",
+      "resumo": "Confira os principais detalhes desse acontecimento que tem repercutido nos ultimos dias.",
+      "textoCompleto": "Este e o texto completo da noticia, trazendo mais detalhes sobre o assunto abordado. As informacoes foram apuradas junto a fontes oficiais e especialistas da area, garantindo um panorama completo sobre o tema para o leitor. A equipe de reportagem continua acompanhando os desdobramentos e novas atualizacoes serao publicadas assim que houver novidades relevantes sobre o caso, mantendo o compromisso com a informacao precisa e atualizada.",
+      "categoriaId": "catoOOL8dKLzd",
+      "destaque": false,
+      "dataPublicacao": "2026-05-10T12:00:00.000Z",
+      "imagem": "https://picsum.photos/seed/imgc5XlrWi0B2/800/450"
+    },
+    {
+      "id": "notzjI6GKFSuf",
+      "titulo": "Falha de seguranca e identificada em aplicativo popular",
+      "resumo": "Confira os principais detalhes desse acontecimento que tem repercutido nos ultimos dias.",
+      "textoCompleto": "Este e o texto completo da noticia, trazendo mais detalhes sobre o assunto abordado. As informacoes foram apuradas junto a fontes oficiais e especialistas da area, garantindo um panorama completo sobre o tema para o leitor. A equipe de reportagem continua acompanhando os desdobramentos e novas atualizacoes serao publicadas assim que houver novidades relevantes sobre o caso, mantendo o compromisso com a informacao precisa e atualizada.",
+      "categoriaId": "catoOOL8dKLzd",
+      "destaque": false,
+      "dataPublicacao": "2026-06-27T12:00:00.000Z",
+      "imagem": "https://picsum.photos/seed/imgrdZSlB5er8/800/450"
+    },
+    {
+      "id": "notqfM2oeq3hD",
+      "titulo": "Novo processador promete maior eficiencia energetica",
+      "resumo": "Confira os principais detalhes desse acontecimento que tem repercutido nos ultimos dias.",
+      "textoCompleto": "Este e o texto completo da noticia, trazendo mais detalhes sobre o assunto abordado. As informacoes foram apuradas junto a fontes oficiais e especialistas da area, garantindo um panorama completo sobre o tema para o leitor. A equipe de reportagem continua acompanhando os desdobramentos e novas atualizacoes serao publicadas assim que houver novidades relevantes sobre o caso, mantendo o compromisso com a informacao precisa e atualizada.",
+      "categoriaId": "catoOOL8dKLzd",
+      "destaque": true,
+      "dataPublicacao": "2026-01-21T12:00:00.000Z",
+      "imagem": "https://picsum.photos/seed/imgavJA76rNic/800/450"
+    },
+    {
+      "id": "nothkqdlm7tOt",
+      "titulo": "Estudo aponta crescimento no uso de veiculos autonomos",
+      "resumo": "Confira os principais detalhes desse acontecimento que tem repercutido nos ultimos dias.",
+      "textoCompleto": "Este e o texto completo da noticia, trazendo mais detalhes sobre o assunto abordado. As informacoes foram apuradas junto a fontes oficiais e especialistas da area, garantindo um panorama completo sobre o tema para o leitor. A equipe de reportagem continua acompanhando os desdobramentos e novas atualizacoes serao publicadas assim que houver novidades relevantes sobre o caso, mantendo o compromisso com a informacao precisa e atualizada.",
+      "categoriaId": "catoOOL8dKLzd",
+      "destaque": true,
+      "dataPublicacao": "2026-05-23T12:00:00.000Z",
+      "imagem": "https://picsum.photos/seed/imgHWnsCGRlrw/800/450"
+    },
+    {
+      "id": "notcabUGJmGEp",
+      "titulo": "Rede social anuncia mudancas em politica de privacidade",
+      "resumo": "Confira os principais detalhes desse acontecimento que tem repercutido nos ultimos dias.",
+      "textoCompleto": "Este e o texto completo da noticia, trazendo mais detalhes sobre o assunto abordado. As informacoes foram apuradas junto a fontes oficiais e especialistas da area, garantindo um panorama completo sobre o tema para o leitor. A equipe de reportagem continua acompanhando os desdobramentos e novas atualizacoes serao publicadas assim que houver novidades relevantes sobre o caso, mantendo o compromisso com a informacao precisa e atualizada.",
+      "categoriaId": "catoOOL8dKLzd",
+      "destaque": false,
+      "dataPublicacao": "2026-07-01T12:00:00.000Z",
+      "imagem": "https://picsum.photos/seed/img7CgQ0PBQFI/800/450"
+    },
+    {
+      "id": "nottSnovm14TU",
+      "titulo": "Campanha de vacinacao e ampliada em todo o pais",
+      "resumo": "Confira os principais detalhes desse acontecimento que tem repercutido nos ultimos dias.",
+      "textoCompleto": "Este e o texto completo da noticia, trazendo mais detalhes sobre o assunto abordado. As informacoes foram apuradas junto a fontes oficiais e especialistas da area, garantindo um panorama completo sobre o tema para o leitor. A equipe de reportagem continua acompanhando os desdobramentos e novas atualizacoes serao publicadas assim que houver novidades relevantes sobre o caso, mantendo o compromisso com a informacao precisa e atualizada.",
+      "categoriaId": "catocJ2isAjIh",
+      "destaque": false,
+      "dataPublicacao": "2026-07-13T12:00:00.000Z",
+      "imagem": "https://picsum.photos/seed/imgOizwd1iaeO/800/450"
+    },
+    {
+      "id": "notdfQ1y3GQsM",
+      "titulo": "Pesquisa revela beneficios de nova terapia contra doencas cronicas",
+      "resumo": "Confira os principais detalhes desse acontecimento que tem repercutido nos ultimos dias.",
+      "textoCompleto": "Este e o texto completo da noticia, trazendo mais detalhes sobre o assunto abordado. As informacoes foram apuradas junto a fontes oficiais e especialistas da area, garantindo um panorama completo sobre o tema para o leitor. A equipe de reportagem continua acompanhando os desdobramentos e novas atualizacoes serao publicadas assim que houver novidades relevantes sobre o caso, mantendo o compromisso com a informacao precisa e atualizada.",
+      "categoriaId": "catocJ2isAjIh",
+      "destaque": false,
+      "dataPublicacao": "2026-06-09T12:00:00.000Z",
+      "imagem": "https://picsum.photos/seed/imgpSscDlkrCa/800/450"
+    },
+    {
+      "id": "notJupc94tnwl",
+      "titulo": "Hospitais registram aumento na procura por atendimento preventivo",
+      "resumo": "Confira os principais detalhes desse acontecimento que tem repercutido nos ultimos dias.",
+      "textoCompleto": "Este e o texto completo da noticia, trazendo mais detalhes sobre o assunto abordado. As informacoes foram apuradas junto a fontes oficiais e especialistas da area, garantindo um panorama completo sobre o tema para o leitor. A equipe de reportagem continua acompanhando os desdobramentos e novas atualizacoes serao publicadas assim que houver novidades relevantes sobre o caso, mantendo o compromisso com a informacao precisa e atualizada.",
+      "categoriaId": "catocJ2isAjIh",
+      "destaque": false,
+      "dataPublicacao": "2026-03-12T12:00:00.000Z",
+      "imagem": "https://picsum.photos/seed/imgavyfErGPmp/800/450"
+    },
+    {
+      "id": "notq0fjzLczbt",
+      "titulo": "Ministerio da saude divulga novo protocolo para emergencias",
+      "resumo": "Confira os principais detalhes desse acontecimento que tem repercutido nos ultimos dias.",
+      "textoCompleto": "Este e o texto completo da noticia, trazendo mais detalhes sobre o assunto abordado. As informacoes foram apuradas junto a fontes oficiais e especialistas da area, garantindo um panorama completo sobre o tema para o leitor. A equipe de reportagem continua acompanhando os desdobramentos e novas atualizacoes serao publicadas assim que houver novidades relevantes sobre o caso, mantendo o compromisso com a informacao precisa e atualizada.",
+      "categoriaId": "catocJ2isAjIh",
+      "destaque": true,
+      "dataPublicacao": "2026-05-25T12:00:00.000Z",
+      "imagem": "https://picsum.photos/seed/imgtOofL9H2Wj/800/450"
+    },
+    {
+      "id": "notMyWuUFjsUN",
+      "titulo": "Estudo aponta relacao entre sono e saude mental",
+      "resumo": "Confira os principais detalhes desse acontecimento que tem repercutido nos ultimos dias.",
+      "textoCompleto": "Este e o texto completo da noticia, trazendo mais detalhes sobre o assunto abordado. As informacoes foram apuradas junto a fontes oficiais e especialistas da area, garantindo um panorama completo sobre o tema para o leitor. A equipe de reportagem continua acompanhando os desdobramentos e novas atualizacoes serao publicadas assim que houver novidades relevantes sobre o caso, mantendo o compromisso com a informacao precisa e atualizada.",
+      "categoriaId": "catocJ2isAjIh",
+      "destaque": false,
+      "dataPublicacao": "2026-06-23T12:00:00.000Z",
+      "imagem": "https://picsum.photos/seed/imgPjc01T5GOB/800/450"
+    },
+    {
+      "id": "noti6HWGK10Zb",
+      "titulo": "Nova unidade de atendimento e inaugurada na regiao central",
+      "resumo": "Confira os principais detalhes desse acontecimento que tem repercutido nos ultimos dias.",
+      "textoCompleto": "Este e o texto completo da noticia, trazendo mais detalhes sobre o assunto abordado. As informacoes foram apuradas junto a fontes oficiais e especialistas da area, garantindo um panorama completo sobre o tema para o leitor. A equipe de reportagem continua acompanhando os desdobramentos e novas atualizacoes serao publicadas assim que houver novidades relevantes sobre o caso, mantendo o compromisso com a informacao precisa e atualizada.",
+      "categoriaId": "catocJ2isAjIh",
+      "destaque": false,
+      "dataPublicacao": "2026-06-23T12:00:00.000Z",
+      "imagem": "https://picsum.photos/seed/img0RLZ5TR9SP/800/450"
+    },
+    {
+      "id": "notiOx9gy1CJd",
+      "titulo": "Especialistas alertam sobre importancia da atividade fisica regular",
+      "resumo": "Confira os principais detalhes desse acontecimento que tem repercutido nos ultimos dias.",
+      "textoCompleto": "Este e o texto completo da noticia, trazendo mais detalhes sobre o assunto abordado. As informacoes foram apuradas junto a fontes oficiais e especialistas da area, garantindo um panorama completo sobre o tema para o leitor. A equipe de reportagem continua acompanhando os desdobramentos e novas atualizacoes serao publicadas assim que houver novidades relevantes sobre o caso, mantendo o compromisso com a informacao precisa e atualizada.",
+      "categoriaId": "catocJ2isAjIh",
+      "destaque": true,
+      "dataPublicacao": "2026-02-03T12:00:00.000Z",
+      "imagem": "https://picsum.photos/seed/imgObOIRpFqaD/800/450"
+    },
+    {
+      "id": "notG5IfQHeVVE",
+      "titulo": "Festival de musica anuncia atracoes para este ano",
+      "resumo": "Confira os principais detalhes desse acontecimento que tem repercutido nos ultimos dias.",
+      "textoCompleto": "Este e o texto completo da noticia, trazendo mais detalhes sobre o assunto abordado. As informacoes foram apuradas junto a fontes oficiais e especialistas da area, garantindo um panorama completo sobre o tema para o leitor. A equipe de reportagem continua acompanhando os desdobramentos e novas atualizacoes serao publicadas assim que houver novidades relevantes sobre o caso, mantendo o compromisso com a informacao precisa e atualizada.",
+      "categoriaId": "catKtJ0RlgLKO",
+      "destaque": false,
+      "dataPublicacao": "2026-07-03T12:00:00.000Z",
+      "imagem": "https://picsum.photos/seed/imgqZe2qpUWno/800/450"
+    },
+    {
+      "id": "notF2yeE6RsXc",
+      "titulo": "Museu recebe exposicao internacional inedita",
+      "resumo": "Confira os principais detalhes desse acontecimento que tem repercutido nos ultimos dias.",
+      "textoCompleto": "Este e o texto completo da noticia, trazendo mais detalhes sobre o assunto abordado. As informacoes foram apuradas junto a fontes oficiais e especialistas da area, garantindo um panorama completo sobre o tema para o leitor. A equipe de reportagem continua acompanhando os desdobramentos e novas atualizacoes serao publicadas assim que houver novidades relevantes sobre o caso, mantendo o compromisso com a informacao precisa e atualizada.",
+      "categoriaId": "catKtJ0RlgLKO",
+      "destaque": false,
+      "dataPublicacao": "2026-06-21T12:00:00.000Z",
+      "imagem": "https://picsum.photos/seed/imgNOPmeMjvqP/800/450"
+    },
+    {
+      "id": "notKiaEdFrRgS",
+      "titulo": "Filme nacional e selecionado para festival europeu",
+      "resumo": "Confira os principais detalhes desse acontecimento que tem repercutido nos ultimos dias.",
+      "textoCompleto": "Este e o texto completo da noticia, trazendo mais detalhes sobre o assunto abordado. As informacoes foram apuradas junto a fontes oficiais e especialistas da area, garantindo um panorama completo sobre o tema para o leitor. A equipe de reportagem continua acompanhando os desdobramentos e novas atualizacoes serao publicadas assim que houver novidades relevantes sobre o caso, mantendo o compromisso com a informacao precisa e atualizada.",
+      "categoriaId": "catKtJ0RlgLKO",
+      "destaque": false,
+      "dataPublicacao": "2026-06-23T12:00:00.000Z",
+      "imagem": "https://picsum.photos/seed/imgnRFsTHsDDD/800/450"
+    },
+    {
+      "id": "notJmtf7EbsDe",
+      "titulo": "Biblioteca publica lanca programa de incentivo a leitura",
+      "resumo": "Confira os principais detalhes desse acontecimento que tem repercutido nos ultimos dias.",
+      "textoCompleto": "Este e o texto completo da noticia, trazendo mais detalhes sobre o assunto abordado. As informacoes foram apuradas junto a fontes oficiais e especialistas da area, garantindo um panorama completo sobre o tema para o leitor. A equipe de reportagem continua acompanhando os desdobramentos e novas atualizacoes serao publicadas assim que houver novidades relevantes sobre o caso, mantendo o compromisso com a informacao precisa e atualizada.",
+      "categoriaId": "catKtJ0RlgLKO",
+      "destaque": false,
+      "dataPublicacao": "2026-07-04T12:00:00.000Z",
+      "imagem": "https://picsum.photos/seed/img0G9Cryn687/800/450"
+    },
+    {
+      "id": "notjVHq8xiM0O",
+      "titulo": "Teatro municipal reabre apos reforma completa",
+      "resumo": "Confira os principais detalhes desse acontecimento que tem repercutido nos ultimos dias.",
+      "textoCompleto": "Este e o texto completo da noticia, trazendo mais detalhes sobre o assunto abordado. As informacoes foram apuradas junto a fontes oficiais e especialistas da area, garantindo um panorama completo sobre o tema para o leitor. A equipe de reportagem continua acompanhando os desdobramentos e novas atualizacoes serao publicadas assim que houver novidades relevantes sobre o caso, mantendo o compromisso com a informacao precisa e atualizada.",
+      "categoriaId": "catKtJ0RlgLKO",
+      "destaque": false,
+      "dataPublicacao": "2026-02-03T12:00:00.000Z",
+      "imagem": "https://picsum.photos/seed/imgGr4hTxoF54/800/450"
+    },
+    {
+      "id": "nota8FRCztUjA",
+      "titulo": "Artista local lanca novo album apos cinco anos",
+      "resumo": "Confira os principais detalhes desse acontecimento que tem repercutido nos ultimos dias.",
+      "textoCompleto": "Este e o texto completo da noticia, trazendo mais detalhes sobre o assunto abordado. As informacoes foram apuradas junto a fontes oficiais e especialistas da area, garantindo um panorama completo sobre o tema para o leitor. A equipe de reportagem continua acompanhando os desdobramentos e novas atualizacoes serao publicadas assim que houver novidades relevantes sobre o caso, mantendo o compromisso com a informacao precisa e atualizada.",
+      "categoriaId": "catKtJ0RlgLKO",
+      "destaque": true,
+      "dataPublicacao": "2026-04-13T12:00:00.000Z",
+      "imagem": "https://picsum.photos/seed/imgwyuh1vauWv/800/450"
+    },
+    {
+      "id": "not7mTa5Vsqxe",
+      "titulo": "Feira do livro atrai milhares de visitantes na capital",
+      "resumo": "Confira os principais detalhes desse acontecimento que tem repercutido nos ultimos dias.",
+      "textoCompleto": "Este e o texto completo da noticia, trazendo mais detalhes sobre o assunto abordado. As informacoes foram apuradas junto a fontes oficiais e especialistas da area, garantindo um panorama completo sobre o tema para o leitor. A equipe de reportagem continua acompanhando os desdobramentos e novas atualizacoes serao publicadas assim que houver novidades relevantes sobre o caso, mantendo o compromisso com a informacao precisa e atualizada.",
+      "categoriaId": "catKtJ0RlgLKO",
+      "destaque": true,
+      "dataPublicacao": "2026-07-13T12:00:00.000Z",
+      "imagem": "https://picsum.photos/seed/imgzy3Lex7BWr/800/450"
+    },
+    {
+      "id": "notd1QsO7jprB",
+      "titulo": "Lideres internacionais se reunem para discutir mudancas climaticas",
+      "resumo": "Confira os principais detalhes desse acontecimento que tem repercutido nos ultimos dias.",
+      "textoCompleto": "Este e o texto completo da noticia, trazendo mais detalhes sobre o assunto abordado. As informacoes foram apuradas junto a fontes oficiais e especialistas da area, garantindo um panorama completo sobre o tema para o leitor. A equipe de reportagem continua acompanhando os desdobramentos e novas atualizacoes serao publicadas assim que houver novidades relevantes sobre o caso, mantendo o compromisso com a informacao precisa e atualizada.",
+      "categoriaId": "catmxgJTeKdNn",
+      "destaque": false,
+      "dataPublicacao": "2026-07-02T12:00:00.000Z",
+      "imagem": "https://picsum.photos/seed/imgGumXxY9B4b/800/450"
+    },
+    {
+      "id": "not648JJnUfd7",
+      "titulo": "Pais anuncia novo acordo comercial com blocos vizinhos",
+      "resumo": "Confira os principais detalhes desse acontecimento que tem repercutido nos ultimos dias.",
+      "textoCompleto": "Este e o texto completo da noticia, trazendo mais detalhes sobre o assunto abordado. As informacoes foram apuradas junto a fontes oficiais e especialistas da area, garantindo um panorama completo sobre o tema para o leitor. A equipe de reportagem continua acompanhando os desdobramentos e novas atualizacoes serao publicadas assim que houver novidades relevantes sobre o caso, mantendo o compromisso com a informacao precisa e atualizada.",
+      "categoriaId": "catmxgJTeKdNn",
+      "destaque": false,
+      "dataPublicacao": "2026-07-25T12:00:00.000Z",
+      "imagem": "https://picsum.photos/seed/imgUACNWiP3sF/800/450"
+    },
+    {
+      "id": "notEAvstqVVPq",
+      "titulo": "Organizacao internacional divulga relatorio sobre desenvolvimento",
+      "resumo": "Confira os principais detalhes desse acontecimento que tem repercutido nos ultimos dias.",
+      "textoCompleto": "Este e o texto completo da noticia, trazendo mais detalhes sobre o assunto abordado. As informacoes foram apuradas junto a fontes oficiais e especialistas da area, garantindo um panorama completo sobre o tema para o leitor. A equipe de reportagem continua acompanhando os desdobramentos e novas atualizacoes serao publicadas assim que houver novidades relevantes sobre o caso, mantendo o compromisso com a informacao precisa e atualizada.",
+      "categoriaId": "catmxgJTeKdNn",
+      "destaque": true,
+      "dataPublicacao": "2026-01-18T12:00:00.000Z",
+      "imagem": "https://picsum.photos/seed/imgzPptEJQzhk/800/450"
+    },
+    {
+      "id": "notG5ZFJoC6vW",
+      "titulo": "Conflito diplomatico gera repercussao em varios paises",
+      "resumo": "Confira os principais detalhes desse acontecimento que tem repercutido nos ultimos dias.",
+      "textoCompleto": "Este e o texto completo da noticia, trazendo mais detalhes sobre o assunto abordado. As informacoes foram apuradas junto a fontes oficiais e especialistas da area, garantindo um panorama completo sobre o tema para o leitor. A equipe de reportagem continua acompanhando os desdobramentos e novas atualizacoes serao publicadas assim que houver novidades relevantes sobre o caso, mantendo o compromisso com a informacao precisa e atualizada.",
+      "categoriaId": "catmxgJTeKdNn",
+      "destaque": true,
+      "dataPublicacao": "2026-06-06T12:00:00.000Z",
+      "imagem": "https://picsum.photos/seed/imgCBiJmpflvJ/800/450"
+    },
+    {
+      "id": "notqZKm4bV3Ay",
+      "titulo": "Cupula economica debate cooperacao entre nacoes",
+      "resumo": "Confira os principais detalhes desse acontecimento que tem repercutido nos ultimos dias.",
+      "textoCompleto": "Este e o texto completo da noticia, trazendo mais detalhes sobre o assunto abordado. As informacoes foram apuradas junto a fontes oficiais e especialistas da area, garantindo um panorama completo sobre o tema para o leitor. A equipe de reportagem continua acompanhando os desdobramentos e novas atualizacoes serao publicadas assim que houver novidades relevantes sobre o caso, mantendo o compromisso com a informacao precisa e atualizada.",
+      "categoriaId": "catmxgJTeKdNn",
+      "destaque": true,
+      "dataPublicacao": "2026-01-11T12:00:00.000Z",
+      "imagem": "https://picsum.photos/seed/imgAVHnyrvWdF/800/450"
+    },
+    {
+      "id": "notiRGHOY32nf",
+      "titulo": "Novo tratado ambiental e assinado por dezenas de paises",
+      "resumo": "Confira os principais detalhes desse acontecimento que tem repercutido nos ultimos dias.",
+      "textoCompleto": "Este e o texto completo da noticia, trazendo mais detalhes sobre o assunto abordado. As informacoes foram apuradas junto a fontes oficiais e especialistas da area, garantindo um panorama completo sobre o tema para o leitor. A equipe de reportagem continua acompanhando os desdobramentos e novas atualizacoes serao publicadas assim que houver novidades relevantes sobre o caso, mantendo o compromisso com a informacao precisa e atualizada.",
+      "categoriaId": "catmxgJTeKdNn",
+      "destaque": false,
+      "dataPublicacao": "2026-03-19T12:00:00.000Z",
+      "imagem": "https://picsum.photos/seed/imgr5pyzPCB9t/800/450"
+    },
+    {
+      "id": "notbicBTW5ZE9",
+      "titulo": "Crise energetica afeta economia de regiao europeia",
+      "resumo": "Confira os principais detalhes desse acontecimento que tem repercutido nos ultimos dias.",
+      "textoCompleto": "Este e o texto completo da noticia, trazendo mais detalhes sobre o assunto abordado. As informacoes foram apuradas junto a fontes oficiais e especialistas da area, garantindo um panorama completo sobre o tema para o leitor. A equipe de reportagem continua acompanhando os desdobramentos e novas atualizacoes serao publicadas assim que houver novidades relevantes sobre o caso, mantendo o compromisso com a informacao precisa e atualizada.",
+      "categoriaId": "catmxgJTeKdNn",
+      "destaque": false,
+      "dataPublicacao": "2026-07-27T12:00:00.000Z",
+      "imagem": "https://picsum.photos/seed/imgLFaez7770H/800/450"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
